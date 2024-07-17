@@ -1,5 +1,11 @@
-# My-Code
-<p>Hello Everyone this is a New Repository<p>
-My First Git Repository <br>
-This is Mansoor <br>
-This is My first Git Code :)
+# Hi 👋, I'm Mansoor
+A passionate DevOps engineer 
+🌱 I’m currently learning Go language
+
+👯 I’m looking to collaborate on cloud-native projects
+
+🤝 I’m looking for help with DevSecOps
+
+💬 Ask me about Linux
+
+📫 How to reach me pathan.mansoor659@gmail.com
